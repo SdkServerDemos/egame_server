@@ -3,7 +3,7 @@ repositories {
 }
 apply plugin: 'application'
 apply plugin: 'java'
-mainClassName = 'com.talkingsdk.'
+mainClassName = 'com.egame.'
 
 dependencies {
     compile 'org.apache.commons:commons-lang3:3.1'
